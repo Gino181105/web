@@ -1,0 +1,39 @@
+:root {
+    --colorTextos: #49454567;
+}
+body {
+    background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);
+}
+
+.form {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 250px;
+    left: 1170px;
+    background-color: white;
+    
+    padding: 60px 85px 85px 85px;
+    border-radius: 5%;
+    box-shadow: 0 5px 10px -5px rgb(0 0 0/ 30%);
+    text-align: center;
+}
+.form-title {
+    font-size: 2rem;
+    margin-bottom: .5em;
+}
+.icono {
+    margin-bottom: 20px;
+}
+.div-form__grupo{
+    padding-bottom: 50px;
+}
+.div-form {
+    position: relative;
+    color: black;
+}
+
+.barra {
+    width: 100%;
+    background: none;
+}

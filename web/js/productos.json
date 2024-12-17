@@ -1,0 +1,177 @@
+[
+    
+      
+    
+    {
+        "id": "libro-02",
+        "titulo": "Carlos Calderón Fajardo",
+        "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/39/e6/39e6d2dd3c5b8386e9dfda1ed90d66a6.jpg",
+        "categoria": {
+            "nombre": "ciencia ficcion",
+            "id": "ciencia ficcion"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-03",
+        "titulo": " Fernando Iwasaki",
+        "imagen": "img/ciencia ficcion/images.jpeg",
+        "categoria": {
+            "nombre": "ciencia ficcion",
+            "id": "ciencia ficcion"
+            
+           
+        },
+        "precio": 20
+    },
+    {
+        "id": "libro-04",
+        "titulo": "Harry Belevan-McBride",
+        "imagen": "img/ciencia ficcion/img-03.jpg.png",
+        "categoria": {
+            "nombre": "ciencia ficcion",
+            "id": "ciencia ficcion"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-05",
+        "titulo": "José Carlos Mariátegui",
+        "imagen": "img/historia/215174-800-1156.webp",
+        "categoria": {
+            "nombre": "historia",
+            "id": "historia"
+        },
+        "precio": 30
+    },
+    {
+        "id": "libro-01",
+        "titulo": "Renato Cisneros ",
+        "imagen": "img/historia/ffcd9957a382a5b54852080350a54201.webp",
+        "categoria": {
+            "nombre": "historia",
+            "id": "historia"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-02",
+        "titulo": "Lurgio Gavilán Sánchez",
+        "imagen": "img/historia/la-distancia-que-nos-separa.jpg",
+        "categoria": {
+            "nombre": "historia",
+            "id": "historia"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-03",
+        "titulo": "William H. Prescott",
+        "imagen": "img/historia/portada.jpg",
+        "categoria": {
+            "nombre": "historia",
+            "id": "historia"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-04",
+        "titulo": " Mariana Enríquez",
+        "imagen": "img/terror y misterio/d.jpg",
+        "categoria": {
+            "nombre": "terror y misterio",
+            "id": "terror y misterio"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-05",
+        "titulo": "Michael Lawrence",
+        "imagen": "img/terror y misterio/2.jpg",
+        "categoria": {
+            "nombre": "terror y misterio",
+            "id": "terror y misterio"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-06",
+        "titulo": "Gillian Flynn",
+        "imagen": "img/terror y misterio/3.jpg",
+        "categoria": {
+            "nombre": "terror y misterio",
+            "id": "terror y misterio"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-07",
+        "titulo": " Doris Lessing",
+        "imagen": "img/terror y misterio/4.jpg",
+        "categoria": {
+            "nombre": "terror y misterio",
+            "id": "terror y misterio"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-08",
+        "titulo": "Frank Herbert",
+        "imagen": "img/ciencia ficcion/869fa8cf3c087c954b6a3b7293c31469.webp",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "ciencia ficcion"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-01",
+        "titulo": "George Orwell",
+        "imagen": "img/ciencia ficcion/descarga.jpeg",
+        "categoria": {
+            "nombre": "ciencia ficcion",
+            "id": "ciencia ficcion"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-02",
+        "titulo": " Douglas Adams ",
+        "imagen": "img/ciencia ficcion/guia del autoestopista galactico.jpeg",
+        "categoria": {
+            "nombre": "ciencia ficcion",
+            "id": "ciencia ficcion"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-03",
+        "titulo": " Albert Camus ",
+        "imagen": "img/historia/D_NQ_NP_901632-MLC50869092713_072022-O.webp",
+        "categoria": {
+            "nombre": "historia",
+            "id": "historia"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-04",
+        "titulo": " Liu Cixin  ",
+        "imagen": "img/historia/83ef8eea48667a5f8d25d75f1c97c167.webp",
+        "categoria": {
+            "nombre": "ciencia ficcion",
+            "id": "ciencia ficcion"
+        },
+        "precio": 10
+    },
+    {
+        "id": "libro-05",
+        "titulo": "Jacques Gernet",
+        "imagen": "img/historia/descarga.jpeg",
+        "categoria": {
+            "nombre": "",
+            "id": "historia"
+        },
+        "precio": 10
+    }
+]
